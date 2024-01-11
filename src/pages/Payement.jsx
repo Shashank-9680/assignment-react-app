@@ -56,11 +56,11 @@ const Dashboard = () => {
         </div>
 
         <div className="flex justify-between w-full h-28">
-          <div className=" w-[480px] flex flex-col justify-between  bg-[#FFFFFF]  p-5">
+          <div className="w-45/100 flex flex-col justify-between  bg-[#FFFFFF]  p-5">
             <div className="font-normal text-xl">Online Orders</div>
             <div className="font-medium text-3xl ">231</div>
           </div>
-          <div className="w-[480px] flex flex-col justify-between  bg-[#FFFFFF] p-5 font-normal text-xl">
+          <div className="w-45/100 flex flex-col justify-between  bg-[#FFFFFF] p-5 font-normal text-xl">
             <div className="font-normal text-xl">Amount Recieved</div>
             <div className="font-medium text-3xl">₹23,92,312.19</div>
           </div>
